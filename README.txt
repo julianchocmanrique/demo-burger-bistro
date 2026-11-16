@@ -24,7 +24,10 @@ papas.png: https://images.rappi.com/products/89610f21-6a35-4708-b017-e76f23df4b8
 chocolate.png: https://images.rappi.com/products/93af0590-820d-4a4d-8883-05b81e573057.png
 logo-bistro.png: https://images.rappi.com/restaurants_logo/cc1d3b97-9e49-4ae5-ad10-1c962d4b8113-1740872887786.png
 Marca e imágenes de productos pertenecen a sus respectivos titulares.
-La fotografía de portada es de referencia, René Roa / Pexels, ver assets/photos.txt.
+Portada: fotografía de Victor Valencia en Google Maps (ago. 2026).
+Ambiente: fotografía de Dalma Galvan en Google Maps (jun. 2022).
+Son imágenes de la galería compartida por el usuario; autores y fuentes en assets/photos.txt.
+Los archivos de stock Pexels de la primera versión no se muestran en la página.
 Fuentes locales: Barlow Condensed y DM Sans. Licencias OFL en assets/.
 
 El formulario genera un mensaje localmente y abre WhatsApp. No almacena datos,
