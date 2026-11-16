@@ -1,0 +1,30 @@
+Fotografías de referencia para la demo. No son fotografías de The Burger Bistro ni representan sus recetas o presentaciones exactas.
+Todas las imágenes se descargaron de Pexels, cuya ficha indica License: Free. Licencia: https://www.pexels.com/license/
+
+hero-burger.jpg
+Autor: René Roa
+Título: Hamburger on Black Background
+Fuente: https://www.pexels.com/photo/hamburger-on-black-background-17518459/
+Descarga: https://images.pexels.com/photos/17518459/pexels-photo-17518459.jpeg?auto=compress&cs=tinysrgb&w=1800&q=85
+Dimensiones: 1800 × 1200. Tamaño: 131281 bytes.
+
+fries.jpg
+Autor: Mony Cruz
+Título: Delicious French Fries with Ketchup on Black
+Fuente: https://www.pexels.com/photo/delicious-french-fries-with-ketchup-on-black-36292352/
+Descarga: https://images.pexels.com/photos/36292352/pexels-photo-36292352.jpeg?auto=compress&cs=tinysrgb&w=1000&q=85
+Dimensiones: 1000 × 1000. Tamaño: 41475 bytes.
+
+hotdog.jpg
+Autor: Wallace Castro
+Título: Delicious Hot Dog with Toppings and Sauces
+Fuente: https://www.pexels.com/photo/delicious-hot-dog-with-toppings-and-sauces-36501081/
+Descarga: https://images.pexels.com/photos/36501081/pexels-photo-36501081.jpeg?auto=compress&cs=tinysrgb&w=1000&q=85
+Dimensiones: 1000 × 1500. Tamaño: 210147 bytes.
+
+shake.jpg
+Autor: Aida Shukuhi
+Título: Creamy Chocolate Milkshake
+Fuente: https://www.pexels.com/photo/creamy-chocolate-milkshake-20205944/
+Descarga: https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=1000&q=85
+Dimensiones: 1000 × 1500. Tamaño: 114716 bytes.
