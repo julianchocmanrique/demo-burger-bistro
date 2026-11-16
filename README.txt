@@ -37,3 +37,8 @@ Maps, Rappi y WhatsApp son servicios externos con políticas propias.
 
 Funcionalidad: navegación adaptable, filtros de platos, selección de producto y
 modalidad, mensaje previo, validación de nombre/cantidad, FAQ y diálogo informativo.
+
+Redes compartidas por el usuario el 16 de noviembre de 2026:
+- Instagram: https://www.instagram.com/theburgerbistro.co/
+- Facebook: https://web.facebook.com/theburgerbistro.s/
+Accesos en la sección Redes y el pie de página; navegación de escritorio y móvil.
